@@ -91,7 +91,7 @@ const Home = () => {
           Workshop and tutorial proposals should, ideally, fit within two pages. Please include a list of names and email addresses of the organizers, a brief description of the topic and the goals of the workshop, and the format (what mix of tutorial, invited talks or other events) and proposed or tentatively confirmed speakers if known. Feel free to contact the Workshops Committee (listed below) directly with questions.
         </p>
         <p className="text-gray-500 leading-relaxed">
-          Raghu Meka | raghum@cs.ucla.edu & Adam Klivans | klivans@utexas.edu
+          W.T. Door | email@email.edu
         </p>
       </section>
     </div>
